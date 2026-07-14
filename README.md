@@ -35,10 +35,10 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yaatharth754" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00FFF0?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="mailto:yaatharth754@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00FFF0?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
@@ -49,16 +49,16 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-00FFF0?style=for-the-badge&logo=python&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-00FFF0?style=for-the-badge&logo=cplusplus&logoColor=000000)
-![Streamlit](https://img.shields.io/badge/Streamlit-00FFF0?style=for-the-badge&logo=streamlit&logoColor=000000)
-![Flask](https://img.shields.io/badge/Flask-00FFF0?style=for-the-badge&logo=flask&logoColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-00FFF0?style=for-the-badge&logo=supabase&logoColor=000000)
-![OpenCV](https://img.shields.io/badge/OpenCV-00FFF0?style=for-the-badge&logo=opencv&logoColor=000000)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-00FFF0?style=for-the-badge&logo=scikitlearn&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-00FFF0?style=for-the-badge&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-00FFF0?style=for-the-badge&logo=github&logoColor=000000)
-![VSCode](https://img.shields.io/badge/VS%20Code-00FFF0?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFF0)
+![VSCode](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
