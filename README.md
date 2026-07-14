@@ -118,11 +118,6 @@ A real-time fitness coach that tracks form via webcam pose detection and gives p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaatharth754&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=FFFFFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatharth754&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=FFFFFF" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaatharth754&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=00FFF0&currStreakLabel=00FFF0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
