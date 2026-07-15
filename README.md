@@ -102,7 +102,7 @@ A real-time fitness coach that tracks form via webcam pose detection and gives p
 - 📐 Per-exercise form metrics (squats, push-ups, curls, and more)
 - 📈 Workout history & progress tracking
 
-🔗 **[Live App](https://yb-ai-gym-coach.streamlit.app/)** &nbsp;·&nbsp; **Landing Page — coming soon**
+🔗 **[Live App](https://yb-ai-gym-coach.streamlit.app/)** &nbsp;·&nbsp; **[Landing Page](https://yb-ai-gym-coach-landingpage.netlify.app/)**
 
 </td>
 </tr>
@@ -153,14 +153,3 @@ while (learning) {
     debug(everything);
     repeat();
 }
-```
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
-
-**Thanks for stopping by — let's connect! ⚡**
-
-</div>
