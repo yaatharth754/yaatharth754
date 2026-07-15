@@ -43,7 +43,8 @@
 ### 📸 SnapClass — AI Attendance
 Facial recognition + voice biometrics system.
 
-🔗 https://snapclass-yb.streamlit.app/
+🔗 https://snapclass-yb.streamlit.app/  
+🔗 https://snapclass-yb-landingpage.vercel.app/
 
 ---
 
@@ -55,31 +56,35 @@ AI fitness assistant with voice feedback.
 
 ---
 
-## 📊 GitHub Stats (Stable)
+## 🔥 Current Streak
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaatharth754&show_icons=true&theme=dark&hide_border=true"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatharth754&layout=compact&theme=dark&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=yaatharth754&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=yaatharth754&theme=dark&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=FFA500&currStreakLabel=FFA500&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph (Official GitHub)
+## 📈 Contribution Heatmap
 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/00FFF0/yaatharth754" />
 
 </div>
+
+---
+
+## 🧠 Dev Philosophy
+
+```python
+while True:
+    learn()
+    build()
+    ship()
+    improve()
+```
 
 ---
 
@@ -98,19 +103,6 @@ AI fitness assistant with voice feedback.
 </a>
 
 </div>
-
----
-
-## 💭 Currently Grinding
-
-```javascript
-while (learning) {
-    solve(dsa_problem);
-    build(ai_project);
-    debug(everything);
-    repeat();
-}
-```
 
 ---
 
