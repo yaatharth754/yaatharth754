@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yaatharth%20Bawankar&fontSize=46&fontColor=00FFF0&animation=twinkling&fontAlignY=35&desc=Student%20%C2%B7%20DSA%20Practitioner%20%C2%B7%20AI%2FML%20Builder&descAlignY=55&descSize=20&descColor=00FFF0"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=650&lines=Learning+DSA+%2B+Algorithms;Building+real+AI%2FML+products;Apna+College+Prime+ML+Batch;Face+recognition+%C2%B7+Voice+AI+%C2%B7+Pose+detection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=800&lines=Learning+DSA+%2B+Algorithms;Building+real+AI%2FML+products;Face+recognition+%C2%B7+Voice+AI+%C2%B7+Pose+detection" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@
 
 ### 📡 About Me
 
-- 🎓 Student, currently deep in the **Apna College Prime ML Batch**
+- 🎓 Student passionate about **AI/ML and Data Structures & Algorithms**
 - 🧠 Practicing **Data Structures & Algorithms** daily — linked lists, trees, graphs, and beyond
 - 🤖 Building real, deployed **AI/ML products** — not just notebooks
 - 🛠️ Stack: **Python · C++ · Streamlit · Flask · Supabase**
@@ -120,6 +120,14 @@ A real-time fitness coach that tracks form via webcam pose detection and gives p
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaatharth754&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=00FFF0&currStreakLabel=00FFF0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yaatharth754&show_icons=true&theme=github_dark&hide_border=true&icon_color=00FFF0&title_color=00FFF0&text_color=FFFFFF&bg_color=0D1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatharth754&layout=compact&theme=github_dark&hide_border=true&title_color=00FFF0&text_color=FFFFFF&bg_color=0D1117" />
+
 </div>
 
 <br/>
@@ -128,7 +136,19 @@ A real-time fitness coach that tracks form via webcam pose detection and gives p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaatharth754&bg_color=0D1117&color=00FFF0&line=00FFF0&point=FFFFFF&area=true&area_color=00FFF0&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaatharth754&theme=github_dark" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaatharth754&theme=github_dark"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaatharth754&theme=github_dark"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaatharth754&theme=github_dark"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaatharth754&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
