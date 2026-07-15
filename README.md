@@ -5,56 +5,26 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=800&lines=Learning+DSA+%2B+Algorithms;Building+real+AI%2FML+products;Face+recognition+%C2%B7+Voice+AI+%C2%B7+Pose+detection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=800&lines=Learning+DSA+%2B+Algorithms;Building+real+AI%2FML+products;Face+Recognition+%C2%B7+Voice+AI+%C2%B7+Pose+Detection" alt="Typing SVG" />
 </a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<br/>
-
-### 📡 About Me
+## 📡 About Me
 
 - 🎓 Student passionate about **AI/ML and Data Structures & Algorithms**
-- 🧠 Practicing **DSA** daily — linked lists, trees, graphs, and beyond
-- 🤖 Building real, deployed **AI/ML products** — not just notebooks
-- 🛠️ Stack: **Python · C++ · Streamlit · Flask · Supabase**
-- ⚡ Recently shipped facial recognition + voice biometrics + real-time pose detection systems
+- 🧠 Practicing **DSA daily** — trees, graphs, recursion, DP & beyond
+- 🤖 Building real-world **AI systems**, not just notebooks
+- ⚡ Recently shipped:
+  - Facial recognition system
+  - Voice biometrics authentication
+  - Real-time pose detection AI coach
 
-<br/>
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
-
-<br/>
-
-### 📞 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yaatharth754" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:yaatharth754@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
-
-<br/>
-
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -71,89 +41,87 @@
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+## 🚀 Featured Projects
 
-<br/>
+### 📸 SnapClass — AI Attendance System
+Automates classroom attendance using facial recognition + voice biometrics.
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h4>📸 SnapClass</h4>
-<b>AI-Powered Attendance System</b>
-
-Automates classroom attendance using facial recognition and voice biometrics — no more manual roll calls or proxy attendance.
-
-- 🧬 Face recognition via `dlib` + `face_recognition_models`
+- 🧬 `dlib` + `face_recognition_models`
 - 🎙️ Voice biometrics via `Resemblyzer`
 - 📊 SVM classifier (`scikit-learn`)
-- 🗄️ Backend on `Supabase`
+- 🗄️ Supabase backend
 - 🔗 QR-based student enrollment
 
-🔗 **[Live App](https://snapclass-yb.streamlit.app/)** &nbsp;·&nbsp; **[Landing Page](https://snapclass-yb-landingpage.vercel.app/)**
+🔗 **Live App:** https://snapclass-yb.streamlit.app/  
+🔗 **Landing Page:** https://snapclass-yb-landingpage.vercel.app/
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h4>🏋️ AI Gym Coach</h4>
-<b>Real-Time Pose Detection + Voice Coaching</b>
+### 🏋️ AI Gym Coach — Real-Time Pose Detection
+AI fitness coach that analyzes form live and gives voice feedback.
 
-A real-time fitness coach that tracks form via webcam pose detection and gives proactive AI voice feedback while you train.
-
-- 🎥 Live pose tracking via `streamlit-webrtc`
+- 🎥 `streamlit-webrtc` pose tracking
 - 🗣️ AI voice coaching pipeline
-- 📐 Per-exercise form metrics (squats, push-ups, curls, and more)
-- 📈 Workout history & progress tracking
+- 📐 Real-time exercise form correction
+- 📈 Workout progress tracking
 
-🔗 **[Live App](https://yb-ai-gym-coach.streamlit.app/)** &nbsp;·&nbsp; **[Landing Page](https://yb-ai-gym-coach-landingpage.netlify.app/)**
+🔗 **Live App:** https://yb-ai-gym-coach.streamlit.app/  
+🔗 **Landing Page:** https://yb-ai-gym-coach-landingpage.netlify.app/
 
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaatharth754&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFF0&icon_color=00FFF0&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatharth754&layout=compact&theme=github_dark&hide_border=true&title_color=00FFF0&text_color=ffffff&bg_color=0D1117&langs_count=8"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatharth754&layout=compact&theme=github_dark&hide_border=true&title_color=00FFF0&text_color=ffffff&bg_color=0D1117"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=yaatharth754&theme=dark&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=00FFF0&currStreakLabel=00FFF0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E"/>
 
 </div>
 
-<br/>
+---
+
+## 🐍 Contribution Snake (Animated)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yaatharth754&theme=dark&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=00FFF0&currStreakLabel=00FFF0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&mode=weekly" />
+<img src="https://raw.githubusercontent.com/yaatharth754/yaatharth754/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<br/>
+> ⚠️ If the snake doesn’t show yet, enable the GitHub Action workflow once.  
+> (I can guide you if needed.)
+
+---
+
+## 📞 Connect With Me
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<a href="https://www.linkedin.com/in/yaatharth754">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+&nbsp;
+
+<a href="mailto:yaatharth754@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-
-### 💭 Currently Grinding
-
-</div>
+## 💭 Currently Grinding
 
 ```javascript
 while (learning) {
