@@ -2,8 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yaatharth%20Bawankar&fontSize=46&fontColor=00FFF0&animation=twinkling&fontAlignY=35&desc=Student%20%C2%B7%20DSA%20Practitioner%20%C2%B7%20AI%2FML%20Builder&descAlignY=55&descSize=20&descColor=00FFF0"/>
 
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=800&lines=Learning+DSA+%2B+Algorithms;Building+real+AI%2FML+products;Face+recognition+%C2%B7+Voice+AI+%C2%B7+Pose+detection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=800&lines=Learning+DSA+%2B+Algorithms;Building+real+AI%2FML+products;Face+recognition+%C2%B7+Voice+AI+%C2%B7+Pose+detection" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,7 +19,7 @@
 ### 📡 About Me
 
 - 🎓 Student passionate about **AI/ML and Data Structures & Algorithms**
-- 🧠 Practicing **Data Structures & Algorithms** daily — linked lists, trees, graphs, and beyond
+- 🧠 Practicing **DSA** daily — linked lists, trees, graphs, and beyond
 - 🤖 Building real, deployed **AI/ML products** — not just notebooks
 - 🛠️ Stack: **Python · C++ · Streamlit · Flask · Supabase**
 - ⚡ Recently shipped facial recognition + voice biometrics + real-time pose detection systems
@@ -37,10 +39,17 @@
 <a href="https://www.linkedin.com/in/yaatharth754" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:yaatharth754@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </div>
 
 <br/>
@@ -118,37 +127,17 @@ A real-time fitness coach that tracks form via webcam pose detection and gives p
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaatharth754&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=00FFF0&currStreakLabel=00FFF0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yaatharth754&show_icons=true&theme=github_dark&hide_border=true&icon_color=00FFF0&title_color=00FFF0&text_color=FFFFFF&bg_color=0D1117" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatharth754&layout=compact&theme=github_dark&hide_border=true&title_color=00FFF0&text_color=FFFFFF&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaatharth754&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFF0&icon_color=00FFF0&text_color=ffffff&bg_color=0D1117&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatharth754&layout=compact&theme=github_dark&hide_border=true&title_color=00FFF0&text_color=ffffff&bg_color=0D1117&langs_count=8"/>
 
 </div>
 
 <br/>
 
-### 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaatharth754&theme=github_dark" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaatharth754&theme=github_dark"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaatharth754&theme=github_dark"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaatharth754&theme=github_dark"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaatharth754&theme=github_dark&utcOffset=5.5"/>
+<img src="https://streak-stats.demolab.com?user=yaatharth754&theme=dark&hide_border=true&background=0D1117&stroke=00FFF0&ring=00FFF0&fire=00FFF0&currStreakLabel=00FFF0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&mode=weekly" />
 
 </div>
 
